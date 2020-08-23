@@ -3,3 +3,6 @@ https://www.youtube.com/watch?v=_mU-D6coRf4&list=PLAbJR1WvIKV-AtsVeN4JkcRhN_GakJ
 
 Elixir Umbrella app Example
 https://github.com/wojtekmach/acme_bank
+
+Phoneix LiveView tutorial 
+https://www.youtube.com/watch?v=MZvmYaFkNJI

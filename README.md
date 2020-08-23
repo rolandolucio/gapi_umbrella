@@ -46,8 +46,8 @@ Root /
 
 
 GraphQL Server
-http://localhost:4000/
-http://localhost:4000/graphiql
+  * http://localhost:4000/
+  * http://localhost:4000/graphiql
 
 Admin Server
-http://localhost:4001
+  * http://localhost:4001

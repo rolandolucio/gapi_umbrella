@@ -38,3 +38,20 @@ y donde Admin.* por Gapi.*
 modificar puertos de red para evitar colisiones
 
 resolver conflictos de dependencias en cada mix.exs correspondiente
+
+Inside gapi_web
+~~~
+
+$ mix phx.gen.json Accounts User users name:string email:string   
+
+$ mix phx.gen.json Posts Post posts title:string body:text user_id:references:users
+
+~~~
+
+Inside admin_web
+~~~
+
+$ mix phx.gen.live Posts Post posts title:string body:text user_id:references:users --no-context --no-schema
+
+~~~
+
