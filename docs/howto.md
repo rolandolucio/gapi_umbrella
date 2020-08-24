@@ -48,6 +48,8 @@ $ mix phx.gen.json Posts Post posts title:string body:text user_id:references:us
 
 ~~~
 
+mix phx.new admin --live --umbrella
+
 Inside admin_web
 ~~~
 
